@@ -1,0 +1,8 @@
+name = "white-hosting-db"
+pages_build_output_dir = "./public"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "white-hosting-db"
+database_id = "94468bdc-674c-4be2-89ca-6167222f9211"
